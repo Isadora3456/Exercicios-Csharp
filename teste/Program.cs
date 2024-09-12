@@ -25,6 +25,7 @@ namespace Course {
        preco = valor1 * qtd1 + valor2 * qtd2;
 
        System.Console.WriteLine("Valor a pagar:  R$" + preco.ToString("F2", CultureInfo.InvariantCulture));
+       System.Console.WriteLine("oi");
 
 
 
